@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GuessTheNumberFragments</string>
+    <string name="start">Начало диапазона</string>
+    <string name="end">Конец диапазона</string>
+    <string name="startButton">Начать</string>
+    <string name="biggerButton">Больше</string>
+    <string name="smallerButton">Меньше</string>
+    <string name="startText">Начало:</string>
+    <string name="endText">Конец:</string>
+    <string name="counterText">Количество шагов:</string>
+    <string name="equalsButton">Равно</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
